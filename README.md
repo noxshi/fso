@@ -23,3 +23,4 @@ https://t.me/nvitexx_shop
 https://t.me/nvitexxchat
 
 ![image alt](https://github.com/noxshi/fso/blob/c60c5e8773035660ed417beadabc70b9253b727a/file%20(1).png)
+![image alt](https://github.com/noxshi/fso/blob/0e416bb52f4e66b1cdae98693e8d9e7e81ea7315/file%20(2).png)
