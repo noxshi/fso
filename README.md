@@ -17,6 +17,11 @@ normal mode
 TO LIGHT THEM DETACH THEM AND WHEN HOLDING PRESS F TO ENABLE THE MODES
 
 They spawn where the computer spawns,the second fso might be on the mom and dad's bedroom on the door where it doesnt open,you will see,they save too.
+You also need OASIS.dll,this is for the mod to work properly(without it its not gonna work)
+link to OASIS:
+https://github.com/Horsey4/OASIS/releases
+When the download is done just copy OASIS.dll to the References folder in the Mods folder,Example:
+X:\Steam\steamapps\common\My Summer Car\Mods\References
 
 Telegram:
 https://t.me/nvitexx_shop
