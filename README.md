@@ -21,3 +21,5 @@ They spawn where the computer spawns,the second fso might be on the mom and dad'
 Telegram:
 https://t.me/nvitexx_shop
 https://t.me/nvitexxchat
+
+![image alt](https://github.com/noxshi/fso/blob/c60c5e8773035660ed417beadabc70b9253b727a/file%20(1).png)
